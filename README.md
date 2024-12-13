@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rocio2005
 - 👀 I’m interested in learning about web-programming, data analysis, and things
-- 🌱 I’m currently learning about systems in the college
+- 🌱 I’m currently learning about math in the college
 
 <!---
 Rocio2005/Rocio2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
